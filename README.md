@@ -1,16 +1,14 @@
-## Hi there 👋
+# Srivarshan
 
-<!--
-**sri-vars/sri-vars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Software Engineer at [Zoho Payments](https://www.zoho.com/in/payments/)  
+- Building scalable systems & exploring low-latency architectures  
+- Passionate about Rust, distributed systems, and Linux internals  
+- FOSS advocate & Neovim enthusiast  
 
-Here are some ideas to get you started:
+### Current Projects  
+- Nimbus – A high-performance distributed message queue 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Information  
+- Email:  `me [at] srivarshan [dot] dev`
+- X:  `@sri_varshan47`
+- Discord:  `sri1404 #8416`
